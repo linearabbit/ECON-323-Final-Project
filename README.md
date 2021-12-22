@@ -1,4 +1,4 @@
-# ECON-323-Final-Project
+# ECON-323-Final-Project (Matthew Ladd)
 Machine learning applied to the determinants of heart failure. The idea that social awareness leads to reduced risk of death due to heart failure using web-scraped Twitter data.
 
 ### ECON323 Final Project
